@@ -19,7 +19,7 @@
     }
   },
   "dependencies": {
-    "debug": "~1.0.4",
+    "debug": "~3.1.0",
     "eventproxy": "~0.3.1",
     "long": "~1.1.5",
     "readable-stream": "1.1.11",
